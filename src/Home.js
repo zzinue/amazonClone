@@ -8,8 +8,8 @@ function Home() {
             <div className="home__container">
                 <img className='home__image' src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" alt="" />
                 <div className="home__row">
-                    <Product title="The Lean Startup"
-                        price={29.99}
+                    <Product id="12321341" title="The Lean Startup: How Constant Innovation Creates Radically Successful Business Paperback"
+                        price={11.96}
                         image="https://http2.mlstatic.com/D_NQ_NP_739525-MLM27815709231_072018-O.webp"
                         rating={5} />
                     <Product
